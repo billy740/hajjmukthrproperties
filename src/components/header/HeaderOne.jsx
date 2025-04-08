@@ -102,7 +102,8 @@ const HeaderStyleOne = function ({ SetToggleClassName, topbar }) {
                 <div className="site-logo-wrap">
                   <div className="site-logo">
                     <Link href="/">
-                      <img src="/img/logo.png" alt="Logo" />
+                    <img src="/img/mhktarlogo.png" alt="Logo" style={{ height: "200px", width: "auto" }} />
+
                     </Link>
                   </div>
                 </div>

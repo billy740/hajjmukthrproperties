@@ -44,60 +44,10 @@ const MenuList = ({ addListing }) => {
           <li>
             <Link href="/shop/right-sidebar">Property right sidebar</Link>
           </li>
-
-          <li>
-            <Link href="#">
-              Other Pages
-              <span className="float-end">
-                <FaAngleDoubleRight />
-              </span>
-            </Link>
-            <ul>
-              <li>
-                <Link href="/cart">Cart</Link>
-              </li>
-              <li>
-                <Link href="/wishlist">Wishlist</Link>
-              </li>
-              <li>
-                <Link href="/checkout">Checkout</Link>
-              </li>
-              <li>
-                <Link href="/order-tracking">Order Tracking</Link>
-              </li>
-              <li>
-                <Link href="/my-account">My Account</Link>
-              </li>
-              <li>
-                <Link href="/login">Sign in</Link>
-              </li>
-              <li>
-                <Link href="/register">Register</Link>
-              </li>
-            </ul>
-          </li>
         </ul>
       </li>
-      <li className="menu-icon">
-        <Link href="#">
-          News <FaPlus />
-        </Link>
-        <ul>
-          <li>
-            <Link href="/blog">News</Link>
-          </li>
-          <li>
-            <Link href="/blog/grid">News Grid</Link>
-          </li>
-          <li>
-            <Link href="/blog/left-sidebar">News Left sidebar</Link>
-          </li>
-          <li>
-            <Link href="/blog/right-sidebar">News Right sidebar</Link>
-          </li>
-        </ul>
-      </li>
-      <li className="menu-icon mega-menu-parent">
+      
+      {/* <li className="menu-icon mega-menu-parent">
         <Link href="#">
           Pages <FaPlus />
         </Link>
@@ -174,7 +124,7 @@ const MenuList = ({ addListing }) => {
             </Link>
           </li>
         </ul>
-      </li>
+      </li> */}
       <li>
         <Link href="/contact">Contact</Link>
       </li>

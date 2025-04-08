@@ -1,30 +1,35 @@
 [
   {
     "id": "1",
-    "name": "Jacob William",
-    "type": "selling Agents",
-    "img": "1.jpg",
-    "description": " Precious ipsum dolor sit amet consectetur adipisicing elit, sed dos mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad min veniam, quis nostrud Precious ips um dolor sit amet, consecte"
+    "name": "Amina Mwangi",
+    "type": "Business Owner",
+    
+    "description": " Haji Mukhtar Properties made my search for a commercial property in Mombasa so easy. They were quick, efficient, and professional. I found the perfect space for my business, and I highly recommend their services to anyone looking for a real estate partner they can trust."
+  },
+  {
   },
   {
     "id": "2",
-    "name": "Kelian Anderson",
-    "type": "selling Agents",
-    "img": "2.jpg",
-    "description": " Precious ipsum dolor sit amet consectetur adipisicing elit, sed dos mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad min veniam, quis nostrud Precious ips um dolor sit amet, consecte"
+    "name": "Juma Hassan",
+    "type": "Engineer",
+   
+    "description": " I was looking for a place to settle down in Mombasa, and Haji Mukhtar Properties helped me find my dream home in Tudor. Their team guided me through the entire process, and I’m beyond happy with my new home. Definitely the best choice for anyone looking to buy or rent a property in the coastal region."
   },
   {
     "id": "3",
-    "name": "Adam Joseph",
-    "type": "selling Agents",
-    "img": "3.jpg",
-    "description": " Precious ipsum dolor sit amet consectetur adipisicing elit, sed dos mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad min veniam, quis nostrud Precious ips um dolor sit amet, consecte"
+    "name": "Zuri Otieno",
+    "type": "Real Estate Investor",
+  
+    "description": "As an investor, finding reliable and profitable property deals in Nyali was challenging until I partnered with Haji Mukhtar Properties. Their team provided expert advice and helped me make informed decisions. I’ve seen great returns, and I’m looking forward to working with them on future investments."
   },
-  {
+    {
     "id": "4",
-    "name": "James Carter",
-    "type": "Jacob Williamselling Agents",
-    "img": "4.jpg",
-    "description": " Precious ipsum dolor sit amet consectetur adipisicing elit, sed dos mod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad min veniam, quis nostrud Precious ips um dolor sit amet, consecte"
-  }
+    "name": "Kwame Nyong'o",
+    "type": "Entrepreneur",
+
+    "description": "Haji Mukhtar Properties made my search for a commercial property in Mombasa so easy. They were quick, efficient, and professional. I found the perfect space for my business, and I highly recommend their services to anyone looking for a real estate partner they can trust."
+    }
 ]
+
+
+
