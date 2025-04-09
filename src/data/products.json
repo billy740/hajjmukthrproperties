@@ -2,13 +2,13 @@
   {
     "id": "1",
     "carousel": [
-      { "img": "35.jpg" },
-      { "img": "31.jpg" },
-      { "img": "32.jpg" },
-      { "img": "33.jpg" }
+      { "img": "star1.jpg" },
+      { "img": "star2.jpg" },
+      { "img": "star3.jpg" },
+      { "img": "star4.jpg" }
     ],
-    "title": "Luxury villa in Rego Park",
-    "productImg": "1.jpg",
+    "title": "Starshine",
+    "productImg": "star1.jpg",
     "price": 69,
     "priceRange": ["Low Budget"],
     "discount": 5,
@@ -104,22 +104,22 @@
     },
 
     "gallery": {
-      "img1": "14.jpg",
-      "img2": "15.jpg",
-      "img3": "16.jpg"
+      "img1": "star1.jpg",
+      "img2": "star2.jpg",
+      "img3": "star3.jpg"
     },
     "propertyTypes": ["House", "Office Villa", "Luxary Home"]
   },
   {
     "id": "2",
     "carousel": [
-      { "img": "35.jpg" },
-      { "img": "31.jpg" },
-      { "img": "32.jpg" },
-      { "img": "33.jpg" }
+      { "img": "moon1.jpg" },
+      { "img": "moon2.jpg" },
+      { "img": "moon1.jpg" },
+      { "img": "moon2.jpg" }
     ],
-    "title": "New Apartment Nice View",
-    "productImg": "2.jpg",
+    "title": "Moonlight",
+    "productImg": "moon1.jpg",
     "price": 159,
     "priceRange": ["Medium"],
     "discount": 5,
@@ -282,22 +282,22 @@
     },
 
     "gallery": {
-      "img1": "14.jpg",
-      "img2": "15.jpg",
-      "img3": "16.jpg"
+      "img1": "moon1.jpg",
+      "img2": "moon2.jpg",
+      "img3": "moon3.jpg"
     },
     "propertyTypes": ["Apartment", "Office Villa", "Luxary Home", "Studio"]
   },
   {
     "id": "3",
     "carousel": [
-      { "img": "35.jpg" },
-      { "img": "31.jpg" },
-      { "img": "32.jpg" },
-      { "img": "33.jpg" }
+      { "img": "tudor1.jpg" },
+      { "img": "tudor2.jpg" },
+      { "img": "tudor3.jpg" },
+      { "img": "tudor1.jpg" }
     ],
-    "title": "Citra Puri California Living",
-    "productImg": "3.jpg",
+    "title": "Tudor pearl",
+    "productImg": "tudor1.jpg",
     "price": 49,
     "priceRange": ["High Budget"],
     "discount": 15,
@@ -393,22 +393,22 @@
     },
 
     "gallery": {
-      "img1": "14.jpg",
-      "img2": "15.jpg",
-      "img3": "16.jpg"
+      "img1": "tudor1.jpg",
+      "img2": "tudor2.jpg",
+      "img3": "tudor3.jpg"
     },
     "propertyTypes": ["House", "Single Family", "Luxary Home", "Studio"]
   },
   {
     "id": "4",
     "carousel": [
-      { "img": "35.jpg" },
-      { "img": "31.jpg" },
-      { "img": "32.jpg" },
-      { "img": "33.jpg" }
+      { "img": "azure1.jpg" },
+      { "img": "azure2.jpg" },
+      { "img": "azure3.jpg" },
+      { "img": "azure4.jpg" }
     ],
-    "title": "Get Best Property On Our",
-    "productImg": "4.jpg",
+    "title": "Azure",
+    "productImg": "azure4.jpg",
     "price": 19,
     "priceRange": ["Medium"],
     "discount": 10,
@@ -504,9 +504,9 @@
     },
 
     "gallery": {
-      "img1": "14.jpg",
-      "img2": "15.jpg",
-      "img3": "16.jpg"
+      "img1": "azure1.jpg",
+      "img2": "azure2.jpg",
+      "img3": "azure3.jpg"
     },
     "propertyTypes": [
       "House",
@@ -519,13 +519,13 @@
   {
     "id": "5",
     "carousel": [
-      { "img": "35.jpg" },
-      { "img": "31.jpg" },
-      { "img": "32.jpg" },
-      { "img": "33.jpg" }
+      { "img": "jameel1.jpg" },
+      { "img": "jameel2.jpg" },
+      { "img": "jameel3.jpg" },
+      { "img": "jameel4.jpg" }
     ],
-    "title": "New Apartment Nice View",
-    "productImg": "5.jpg",
+    "title": "Jameel Twin Tower",
+    "productImg": "jameel4.jpg",
     "price": 149,
     "priceRange": ["Low Budget"],
     "discount": 5,
@@ -621,9 +621,9 @@
     },
 
     "gallery": {
-      "img1": "14.jpg",
-      "img2": "15.jpg",
-      "img3": "16.jpg"
+      "img1": "jameel1.jpg",
+      "img2": "jameel2.jpg",
+      "img3": "jameel3.jpg"
     },
     "propertyTypes": ["House", "Single Family", "Apartment", "Office Villa"]
   },

@@ -275,11 +275,11 @@ function HomeVersionTwo(props) {
               <Tab.Container defaultActiveKey="first">
                 <div className="ltn__tab-menu ltn__tab-menu-3 text-center">
                   <Nav className="nav justify-content-center">
-                    <Nav.Link eventKey="first">The Studio</Nav.Link>
-                    <Nav.Link eventKey="second">Deluxe Portion</Nav.Link>
-                    <Nav.Link eventKey="third">Penthouse</Nav.Link>
-                    <Nav.Link eventKey="fourth">Top Garden</Nav.Link>
-                    <Nav.Link eventKey="five"> Double Height</Nav.Link>
+                    <Nav.Link eventKey="first">Tudor pearl</Nav.Link>
+                    <Nav.Link eventKey="second">Starshine</Nav.Link>
+                    <Nav.Link eventKey="third">Moonlight</Nav.Link>
+                    <Nav.Link eventKey="fourth">Azure</Nav.Link>
+                    <Nav.Link eventKey="five"> Jameel Twin Tower</Nav.Link>
                   </Nav>
                 </div>
                 <Tab.Content>
