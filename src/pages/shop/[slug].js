@@ -264,16 +264,16 @@ function ProductDetails({ product }) {
                   <h4 className="title-2">Property Detail</h4>
                   <div className="property-detail-info-list section-bg-1 clearfix mb-60">
                     <ul>
-                      <li>
+                      {/* <li>
                         <label>Property ID:</label>{" "}
                         <span>{product.propertyDetails.propertyId}</span>
-                      </li>
+                      </li> */}
                       <li>
                         <label>Home Area: </label>{" "}
                         <span>{product.propertyDetails.area} sqft</span>
                       </li>
                       <li>
-                        <label>Rooms:</label>{" "}
+                        <label>Roomms:</label>{" "}
                         <span>{product.propertyDetails.rooms}</span>
                       </li>
                       <li>
