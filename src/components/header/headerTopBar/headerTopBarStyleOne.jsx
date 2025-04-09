@@ -17,18 +17,7 @@ const HeaderTopBarOne = function () {
             <Col xs={12} md={5}>
               <div className="top-bar-right text-end">
                 <div className="ltn__top-bar-menu mx-auto">
-                  <ul>
-                    <li>
-                      {/* <!-- ltn__social-media --> */}
-                      <HeaderSocialLinks/>
-                    </li>
-                    <li>
-                      {/* <!-- header-top-btn --> */}
-                      <div className="header-top-btn">
-                        <Link href="/add-listing">Add Listing</Link>
-                      </div>
-                    </li>
-                  </ul>
+                 
                 </div>
               </div>
             </Col>
