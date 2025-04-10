@@ -38,7 +38,7 @@ const MyApp = ({ Component, ...rest }) => {
     <Fragment>
       <Head>
         <title>Haji Mukhtar</title>
-        <meta name="description" content="Haji Mukhtar -  Real Estate Agency" />
+        <meta name="description" content="Haji Mukhtar  Properties and Petroleum Ltd" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/mhktarlogo.ico" />
       </Head>
