@@ -37,10 +37,10 @@ const MyApp = ({ Component, ...rest }) => {
   return (
     <Fragment>
       <Head>
-        <title>Quarter - Real Estate NextJs Template</title>
-        <meta name="description" content="Quarter - Real Estate Nextjs Template" />
+        <title>Haji Mukhtar</title>
+        <meta name="description" content="Haji Mukhtar -  Real Estate Agency" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/mhktarlogo.ico" />
       </Head>
       <style jsx global>{`
         html,body {
