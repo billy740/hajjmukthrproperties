@@ -269,35 +269,21 @@ function ProductDetails({ product }) {
                         <span>{product.propertyDetails.propertyId}</span>
                       </li> */}
                       <li>
-                        <label>Home Area: </label>{" "}
-                        <span>{product.propertyDetails.area} sqft</span>
+                        <label>Apartment types: </label>{" "}
+                        <span>{product.propertyDetails.area} </span>
                       </li>
                       <li>
-                        <label>Roomms:</label>{" "}
-                        <span>{product.propertyDetails.rooms}</span>
+                        <label>Floors:</label>{" "}
+                        <span>{product.propertyDetails.Floors}</span>
                       </li>
-                      <li>
-                        <label>Baths:</label>{" "}
-                        <span>{product.propertyDetails.baths}</span>
-                      </li>
+                     
                       <li>
                         <label>Year built:</label>{" "}
                         <span>{product.propertyDetails.createdYear}</span>
                       </li>
                     </ul>
                     <ul>
-                      <li>
-                        <label>Lot Area:</label>{" "}
-                        <span>{product.propertyDetails.propertyId}</span>
-                      </li>
-                      <li>
-                        <label>Lot dimensions:</label>{" "}
-                        <span>{product.propertyDetails.area} sqft</span>
-                      </li>
-                      <li>
-                        <label>Beds:</label>{" "}
-                        <span>{product.propertyDetails.bedrooms}</span>
-                      </li>
+                    
                       <li>
                         <label>Price:</label> <span>{product.price}</span>
                       </li>
@@ -496,8 +482,7 @@ function ProductDetails({ product }) {
                   <h4 className="title-2">Location</h4>
                   <div className="property-details-google-map mb-60">
                     <iframe
-                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9334.271551495209!2d-73.97198251485975!3d40.668170674982946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25b0456b5a2e7%3A0x68bdf865dda0b669!2sBrooklyn%20Botanic%20Garden%20Shop!5e0!3m2!1sen!2sbd!4v1590597267201!5m2!1sen!2sbd"
-                      width="100%"
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d497.4913523344298!2d39.66342860145627!3d-4.034540545005898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x184013003308febf%3A0x371472d13ac3752e!2sJameel%20Residence!5e0!3m2!1sen!2ske!4v1744273913856!5m2!1sen!2ske" 
                       height="100%"
                       frameBorder="0"
                       allowFullScreen=""
@@ -511,10 +496,10 @@ function ProductDetails({ product }) {
                     <Tab.Container defaultActiveKey="first">
                       <div className="ltn__tab-menu ltn__tab-menu-3">
                         <Nav className="nav">
-                          <Nav.Link eventKey="first">First Floor</Nav.Link>
-                          <Nav.Link eventKey="second">Second Floor</Nav.Link>
-                          <Nav.Link eventKey="third">Third Floor</Nav.Link>
-                          <Nav.Link eventKey="fourth">Top Garden</Nav.Link>
+                          <Nav.Link eventKey="first">Two bedroom unit</Nav.Link>
+                          <Nav.Link eventKey="second">Three bedroom unit</Nav.Link>
+                          <Nav.Link eventKey="third">Full floor plan </Nav.Link>
+                         
                         </Nav>
                       </div>
                       <Tab.Content>
@@ -523,19 +508,13 @@ function ProductDetails({ product }) {
                             <div className="row">
                               <div className="col-lg-7">
                                 <div className="apartments-plan-img">
-                                  <img src="/img/others/10.png" alt="#" />
+                                  <img src="/img/others/image2bd.jpeg" alt="#" />
                                 </div>
                               </div>
                               <div className="col-lg-5">
                                 <div className="apartments-plan-info">
-                                  <h2>First Floor</h2>
-                                  <p>
-                                    Enimad minim veniam quis nostrud
-                                    exercitation ullamco laboris. Lorem ipsum
-                                    dolor sit amet cons aetetur adipisicing elit
-                                    sedo eiusmod tempor.Incididunt labore et
-                                    dolore magna aliqua. sed ayd minim veniam.
-                                  </p>
+                                  <h2>Two Bedroom apt.</h2>
+                                 
                                 </div>
                               </div>
                               <div className="col-lg-12">
@@ -546,11 +525,11 @@ function ProductDetails({ product }) {
                                         <ul>
                                           <li>
                                             <label>Total Area</label>{" "}
-                                            <span>2800 Sq. Ft</span>
+                                            <span>1150 Sq. Ft</span>
                                           </li>
                                           <li>
-                                            <label>Bedroom</label>{" "}
-                                            <span>150 Sq. Ft</span>
+                                            <label>Bedrooms</label>{" "}
+                                            <span>"4.8 m*3.7m"&"4.0m*3.85m"</span>
                                           </li>
                                         </ul>
                                       </div>
@@ -564,7 +543,7 @@ function ProductDetails({ product }) {
                                           </li>
                                           <li>
                                             <label>Lounge</label>
-                                            <span>650 Sq. Ft</span>
+                                            <span>6.7m*4.2m</span>
                                           </li>
                                         </ul>
                                       </div>
@@ -580,19 +559,13 @@ function ProductDetails({ product }) {
                             <div className="row">
                               <div className="col-lg-7">
                                 <div className="apartments-plan-img">
-                                  <img src="/img/others/10.png" alt="#" />
+                                  <img src="/img/others/image3bd.jpeg" alt="#" />
                                 </div>
                               </div>
                               <div className="col-lg-5">
                                 <div className="apartments-plan-info">
-                                  <h2>Second Floor</h2>
-                                  <p>
-                                    Enimad minim veniam quis nostrud
-                                    exercitation ullamco laboris. Lorem ipsum
-                                    dolor sit amet cons aetetur adipisicing elit
-                                    sedo eiusmod tempor.Incididunt labore et
-                                    dolore magna aliqua. sed ayd minim veniam.
-                                  </p>
+                                  <h2>Three bedroom apt</h2>
+                                  
                                 </div>
                               </div>
                               <div className="col-lg-12">
@@ -603,11 +576,11 @@ function ProductDetails({ product }) {
                                         <ul>
                                           <li>
                                             <label>Total Area</label>{" "}
-                                            <span>2800 Sq. Ft</span>
+                                            <span>1800 Sq. Ft</span>
                                           </li>
                                           <li>
-                                            <label>Bedroom</label>{" "}
-                                            <span>150 Sq. Ft</span>
+                                            <label>bedrooms</label>{" "}
+                                            <span>"4.8 m * 4.6m","4.65m*3.5m","4.8m*3.45m"</span>
                                           </li>
                                         </ul>
                                       </div>
@@ -621,7 +594,7 @@ function ProductDetails({ product }) {
                                           </li>
                                           <li>
                                             <label>Lounge</label>{" "}
-                                            <span>650 Sq. Ft</span>
+                                            <span>10.8m*4.6m</span>
                                           </li>
                                         </ul>
                                       </div>
@@ -637,22 +610,17 @@ function ProductDetails({ product }) {
                             <div className="row">
                               <div className="col-lg-7">
                                 <div className="apartments-plan-img">
-                                  <img src="/img/others/10.png" alt="#" />
+                                  <img src="/img/others/imagefull.jpeg" alt="#" />
                                 </div>
                               </div>
                               <div className="col-lg-5">
                                 <div className="apartments-plan-info">
-                                  <h2>Third Floor</h2>
-                                  <p>
-                                    Enimad minim veniam quis nostrud
-                                    exercitation ullamco laboris. Lorem ipsum
-                                    dolor sit amet cons aetetur adipisicing elit
-                                    sedo eiusmod tempor.Incididunt labore et
-                                    dolore magna aliqua. sed ayd minim veniam.
-                                  </p>
+                                  <h2>Full Floor Plan</h2>
+                                  
+                                    
                                 </div>
                               </div>
-                              <div className="col-lg-12">
+                              {/* <div className="col-lg-12">
                                 <div className="product-details-apartments-info-list  section-bg-1">
                                   <div className="row">
                                     <div className="col-lg-6">
@@ -685,7 +653,7 @@ function ProductDetails({ product }) {
                                     </div>
                                   </div>
                                 </div>
-                              </div>
+                              </div> */}
                             </div>
                           </div>
                         </Tab.Pane>

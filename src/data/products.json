@@ -72,14 +72,14 @@
     "amenities1": [
       "Air Conditioning",
       "Gym",
-      "Microwave",
+      
       "Swimming Pool",
       "WiFi"
     ],
     "amenities2": [
       "Barbeque",
       "Recreation",
-      "Microwave",
+      
       "Basketball Cout",
       "Fireplace"
     ],
@@ -250,7 +250,7 @@
     "amenities1": [
       "Air Conditioning",
       "Gym",
-      "Microwave",
+      
       "Swimming Pool",
       "WiFi"
     ],
@@ -526,7 +526,7 @@
     ],
     "title": "Jameel Twin Tower",
     "productImg": "jameel4.jpg",
-    "price": 149,
+    "price": 777,
     "priceRange": ["Low Budget"],
     "discount": 5,
     "country": true,
@@ -568,12 +568,12 @@
     },
     "propertyDetails": {
       "propertyId": "HZ29",
-      "area": 3450,
-      "propertyStatus": "For Sale",
-      "rooms": 7,
+      "Apartment types": "2 and 3",
+      "propertyStatus": "For Sale and For Rent",
+      "Floors": 15,
       "bedrooms": 3,
       "baths": 2,
-      "createdYear": 1992
+      "createdYear": 2024
     },
     "factsAndFeatures": {
       "livingRoom": "20 x 16 sq feet",
@@ -589,16 +589,15 @@
     "amenities1": [
       "Air Conditioning",
       "Gym",
-      "Microwave",
       "Swimming Pool",
       "WiFi"
     ],
     "amenities2": [
-      "Barbeque",
-      "Recreation",
-      "Microwave",
-      "Basketball Cout",
-      "Fireplace"
+      
+      
+      
+      
+     
     ],
     "amenities3": [
       "Refrigerator",
