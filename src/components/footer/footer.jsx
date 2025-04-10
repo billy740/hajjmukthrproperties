@@ -22,7 +22,7 @@ const Footer = function () {
               <div className="footer-widget footer-about-widget">
                 <div className="footer-logo mb-3">
                   <div className="site-logo">
-                    <img src="/img/mhktarlogo.png" alt="Logo" />
+                    <img src="/img/mhktarlogo.png" alt="Logo" style={{ height: "80px", width: "auto" }} />
                   </div>
                 </div>
                 <p>
