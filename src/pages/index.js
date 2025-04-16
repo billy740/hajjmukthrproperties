@@ -777,162 +777,10 @@ function HomeVersionTwo(props) {
 
                 <Tab.Container defaultActiveKey="first">
                   <div className="ltn__tab-menu ltn__tab-menu-4 text-center">
-                    <Nav>
-                      <Nav.Link eventKey="first"> <img src="/img/neighbour/1.jpg" alt="#" /></Nav.Link>
-                      <Nav.Link eventKey="second"> <img src="/img/neighbour/2.jpg" alt="#" /></Nav.Link>
-                      <Nav.Link eventKey="third"><img src="/img/neighbour/3.jpg" alt="#" /></Nav.Link>
-                    </Nav>
+                   
 
                   </div>
-                  <Tab.Content>
-                    <Tab.Pane eventKey="first">
-                      <div className="ltn__neighbour-tab-content-inner">
-                        <div className="row">
-                          <div className="col-lg-8">
-                            <div className="neighbour-apartments-img">
-                              <img src="/img/neighbour/1.jpg" alt="#" />
-                            </div>
-                          </div>
-                          <div className="col-lg-4">
-                            <div className="ltn__search-by-place-item neighbour-apartments-item">
-                              <div className="search-by-place-img">
-                                <Link href="#">
-                                  <img src="/img/product-3/3.jpg" alt="#" />
-                                </Link>
-                                <div className="search-by-place-badge">
-                                  <ul>
-                                    <li>9 Properties</li>
-                                  </ul>
-                                </div>
-                              </div>
-                              <div className="search-by-place-info">
-                                <h4>
-                                  <Link href="#">Shopping Center</Link>
-                                </h4>
-                                <label>
-                                  <span className="ltn__secondary-color">
-                                    1,500m{" "}
-                                  </span>
-                                  / 21 min. walk
-                                </label>
-                                <div className="search-by-place-brief">
-                                  <p>
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore Enim ullamco laboris.
-                                  </p>
-                                </div>
-                                <div className="search-by-place-btn">
-                                  <Link href="#">
-                                    View Property{" "}
-                                    <i className="flaticon-right-arrow"></i>
-                                  </Link>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </Tab.Pane>
-                    <Tab.Pane eventKey="second">
-                      <div className="ltn__neighbour-tab-content-inner">
-                        <div className="row">
-                          <div className="col-lg-8">
-                            <div className="neighbour-apartments-img">
-                              <img src="/img/neighbour/2.jpg" alt="#" />
-                            </div>
-                          </div>
-                          <div className="col-lg-4">
-                            <div className="ltn__search-by-place-item neighbour-apartments-item">
-                              <div className="search-by-place-img">
-                                <Link href="#">
-                                  <img src="/img/product-3/2.jpg" alt="#" />
-                                </Link>
-                                <div className="search-by-place-badge">
-                                  <ul>
-                                    <li>9 Properties</li>
-                                  </ul>
-                                </div>
-                              </div>
-                              <div className="search-by-place-info">
-                                <h4>
-                                  <Link href="#">Medical Hospital</Link>
-                                </h4>
-                                <label>
-                                  <span className="ltn__secondary-color">
-                                    1,500m{" "}
-                                  </span>
-                                  / 21 min. walk
-                                </label>
-                                <div className="search-by-place-brief">
-                                  <p>
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore Enim ullamco laboris.
-                                  </p>
-                                </div>
-                                <div className="search-by-place-btn">
-                                  <Link href="#">
-                                    View Property{" "}
-                                    <i className="flaticon-right-arrow"></i>
-                                  </Link>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </Tab.Pane>
-                    <Tab.Pane eventKey="third">
-                      <div className="ltn__neighbour-tab-content-inner">
-                        <div className="row">
-                          <div className="col-lg-8">
-                            <div className="neighbour-apartments-img">
-                              <img src="/img/neighbour/3.jpg" alt="#" />
-                            </div>
-                          </div>
-                          <div className="col-lg-4">
-                            <div className="ltn__search-by-place-item neighbour-apartments-item">
-                              <div className="search-by-place-img">
-                                <Link href="#">
-                                  <img src="/img/product-3/4.jpg" alt="#" />
-                                </Link>
-                                <div className="search-by-place-badge">
-                                  <ul>
-                                    <li>9 Properties</li>
-                                  </ul>
-                                </div>
-                              </div>
-                              <div className="search-by-place-info">
-                                <h4>
-                                  <Link href="#">Children Playland</Link>
-                                </h4>
-                                <label>
-                                  <span className="ltn__secondary-color">
-                                    1,500m{" "}
-                                  </span>
-                                  / 21 min. walk
-                                </label>
-                                <div className="search-by-place-brief">
-                                  <p>
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit, sed do eiusmod tempor
-                                    incididunt ut labore Enim ullamco laboris.
-                                  </p>
-                                </div>
-                                <div className="search-by-place-btn">
-                                  <Link href="#">
-                                    View Property{" "}
-                                    <i className="flaticon-right-arrow"></i>
-                                  </Link>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </Tab.Pane>
-                  </Tab.Content>
+                 
                 </Tab.Container>
               </div>
               <div className="ltn__faq-inner ltn__faq-inner-2 ltn__faq-inner-3">
@@ -1062,10 +910,10 @@ function HomeVersionTwo(props) {
             <Col xs={12}>
               <div className="section-title-area">
                 <h6 className="section-subtitle white-color">
-                  Client,s Testimonial
+                  Clients Testimonial
                 </h6>
                 <h1 className="section-title white-color">
-                  See What,s Our Client <br />
+                  See What Our Client <br />
                   Says About Us
                 </h1>
               </div>
