@@ -409,7 +409,7 @@
     ],
     "title": "Azure",
     "productImg": "azure4.jpg",
-    "price": 19,
+    "price": "ksh",
     "priceRange": ["Medium"],
     "discount": 10,
     "country": false,
@@ -441,22 +441,23 @@
       "Oil Change",
       "Body Color"
     ],
-    "date": "May 19, 2021",
-    "comments": 35,
-    "locantion": "New York",
+    "date": "",
+    "comments": "",
+    "locantion": "Ganjoni",
     "description": {
-      "title": "Description",
-      "fullDescription": "This luxurious property offers a contemporary design with all the modern amenities to ensure a comfortable lifestyle. The spacious rooms are designed to maximize comfort and functionality. Enjoy scenic views of the surrounding areas while relaxing in your private garden. The property features a prime location, providing easy access to key landmarks and local attractions.Whether you are looking to buy or rent, this property offers the perfect solution for those seeking an ideal living space with flexible payment plans. The availability of high-speed lifts, borehole water supply, and 24-hour high security adds to the convenience and peace of mind for all residents. Perfect for those who value convenience, security, and prime location.",
-      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
-    },
+  "title": "Description",
+  "fullDescription": "Nestled in the serene and central neighborhood of Ganjoni, Azure Apartments offers a harmonious blend of contemporary design, spacious interiors, and convenient urban living. This upcoming residential development features meticulously planned 2-bedroom apartments of 1,000 sq. ft and expansive 3-bedroom units stretching up to 1,900 sq. ft — ideal for both small families and discerning homeowners. Each apartment is crafted with high-quality finishes, open-plan living spaces, and large windows that bring in natural light while offering stunning views of the surrounding cityscape. Located within close proximity to schools, shopping centers, and key transport routes, Azure provides residents with the perfect balance of privacy, accessibility, and lifestyle. Whether you're a first-time homebuyer, investor, or looking to upgrade your living experience, Azure Apartments is where elegance meets practicality in the heart of Mombasa.",
+  "shortDescription": "Azure Apartments, Ganjoni – Experience elevated living in these elegantly designed 2 and 3-bedroom units, measuring 1,000 and 1,900 sq. ft respectively. Perfectly located in the heart of Mombasa, Azure blends modern luxury with everyday comfort."
+},
+
     "propertyDetails": {
       "propertyId": "HZ29",
-      "area": 3450,
-      "propertyStatus": "For Sale",
+      "area": "2 and 3 bedroom apartment",
+      "propertyStatus": "For Sale and for Rent",
       "rooms": 7,
       "bedrooms": 3,
       "baths": 2,
-      "createdYear": 1992
+      "createdYear": 2025
     },
     "factsAndFeatures": {
       "livingRoom": "20 x 16 sq feet",
