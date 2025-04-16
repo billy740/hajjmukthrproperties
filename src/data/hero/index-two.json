@@ -1,14 +1,12 @@
 [
   {
     "subtitle": "Real Estate Agency",
-    "Title": "Find Your Dream Hoose By Us",
-    "Desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+    "Title": "Find Your Dream House By Us",
+    "Desc": "Discover your ideal home with Haji Mukhtar Properties & Petroleum Ltd. We offer a wide range of residential and commercial properties tailored to your needs—making the journey to homeownership smooth, secure, and stress-free.",
     "icon": "FaHome",
     "heroimage": "jameel4.jpg",
     "id": "1",
-    "buttonText": "Make An Enquiry",
-    "videoButton": true,
-    "learnMoreButtonText": false,
+    
     "variationLeft": false
   },
   {
