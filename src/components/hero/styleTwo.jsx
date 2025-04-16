@@ -184,7 +184,7 @@ function HeroSectionStyleTwo({ data }) {
                             <div className="slide-brief animated">
                               <p>{item.Desc}</p>
                             </div>
-                            <div className="btn-wrapper animated">
+                            {/* <div className="btn-wrapper animated">
                               <Link
                                 href="/about"
                                 className="theme-btn-1 btn btn-effect-1"
@@ -207,7 +207,7 @@ function HeroSectionStyleTwo({ data }) {
                                   {item.learnMoreButtonText}
                                 </Link>
                               )}
-                            </div>
+                            </div> */}
                           </div>
                         </div>
                         <div

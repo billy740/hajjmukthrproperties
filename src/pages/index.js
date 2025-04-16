@@ -191,13 +191,7 @@ function HomeVersionTwo(props) {
   return (
     <LayoutOne topbar={false}>
 
-      <ModalVideo
-        channel="youtube"
-        autoplay
-        isOpen={isOpen}
-        videoId="LjCzPp-MK48"
-        onClose={() => setOpen(false)}
-      />
+      
       {/* <!-- SLIDER AREA START (slider-11) --> */}
       <div className="ltn__slider-area ltn__slider-11 section-bg-1">
         <HeroSectionStyleTwo data={heroData} />
@@ -234,7 +228,7 @@ function HomeVersionTwo(props) {
     <!-- UPCOMING PROJECT AREA START --> */}
       <div
         className="ltn__upcoming-project-area bg-image-top pt-115 pb-65"
-        style={{ backgroundImage: `url("../img/bg/22.jpg")` }}
+        style={{ backgroundImage: `url("../img/others/zuri pic 2.jpg")` }}
       >
         <Container>
           <Row>
@@ -258,7 +252,7 @@ function HomeVersionTwo(props) {
 
     <!-- APARTMENTS PLAN AREA START --> */}
 
-      <div className="ltn__apartments-plan-area pb-70">
+      {/* <div className="ltn__apartments-plan-area pb-70">
         <Container>
           <Row>
             <Col>
@@ -523,7 +517,7 @@ function HomeVersionTwo(props) {
             </Col>
           </Row>
         </Container>
-      </div>
+      </div> */}
       {/* <!-- APARTMENTS PLAN AREA END -->
 
     <!-- SEARCH BY PLACE AREA START (testimonial-7) --> */}
@@ -541,7 +535,7 @@ function HomeVersionTwo(props) {
                 </h6>
                 <h1 className="section-title">
                   Find Your Dream House <br />
-                  Search By Area
+                  
                 </h1>
               </div>
             </Col>
@@ -575,7 +569,7 @@ function HomeVersionTwo(props) {
       {/* <!-- SEARCH BY PLACE AREA END -->
 
     <!-- SELECT AVAILABILITY AREA START --> */}
-      <div className="select-availability-area pb-120">
+      {/* <div className="select-availability-area pb-120">
         <Container>
           <Row>
             <Col xs={12}>
@@ -758,7 +752,7 @@ function HomeVersionTwo(props) {
             </Col>
           </Row>
         </Container>
-      </div>
+      </div> */}
       {/* <!-- SELECT AVAILABILITY AREA END -->
 
     <!-- NEIGHBOUR AREA START --> */}
@@ -952,36 +946,19 @@ function HomeVersionTwo(props) {
                           College
                         </Accordion.Header>
                         <Accordion.Body>
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit, sed do eiusmod tempor incididunt ut labore
-                            et dolore magna aliqua. Scelerisque eleifend donec
-                            pretium vulputate sapien nec sagittis.
-                          </p>
+                        <p>
+      Conveniently located near top-tier universities and colleges, our properties offer families and students a unique advantage. Enjoy quick commutes, a vibrant academic environment, and access to world-class education — all while residing in a peaceful, well-planned neighborhood.
+    </p>
                         </Accordion.Body>
                       </Accordion.Item>
                       {/* <!-- card --> */}
                       <Accordion.Item eventKey="2" className="card">
                         <Accordion.Header className="ltn__card-title"><i className="flaticon-hospital"></i> Medical Hospital</Accordion.Header>
                         <Accordion.Body>
-                          <div className="ltn__video-img alignleft">
-                            <img
-                              src="/img/bg/17.jpg"
-                              alt="video popup bg image"
-                            />
-                            <button
-                              className="ltn__video-icon-2 ltn__video-icon-2-small"
-                              onClick={() => setOpen(true)}
-                            >
-                              <FaPlay />
-                            </button>
-                          </div>
+                         
                           <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit, sed do eiusmod tempor incididunt ut labore
-                            et dolore magna aliqua. Scelerisque eleifend donec
-                            pretium vulputate sapien nec sagittis.
-                          </p>
+      Live with peace of mind knowing that leading hospitals and medical centers are just minutes away. Whether it’s for routine check-ups or emergencies, access to quality healthcare is always within reach — ensuring the safety and well-being of your loved ones.
+    </p>
                         </Accordion.Body>
                       </Accordion.Item>
                       {/* <!-- card --> */}
@@ -990,12 +967,9 @@ function HomeVersionTwo(props) {
                           <i className="flaticon-metro"></i> Railway Station
                         </Accordion.Header>
                         <Accordion.Body className="card-body">
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit, sed do eiusmod tempor incididunt ut labore
-                            et dolore magna aliqua. Scelerisque eleifend donec
-                            pretium vulputate sapien nec sagittis.
-                          </p>
+                        <p>
+      Seamlessly connect to major cities and destinations via nearby railway stations. Perfect for professionals and frequent travelers, this access provides unmatched convenience and mobility — making travel smooth, efficient, and stress-free.
+    </p>
                         </Accordion.Body>
                       </Accordion.Item>
                       {/* <!--  --> */}
@@ -1009,26 +983,20 @@ function HomeVersionTwo(props) {
                           <i className="flaticon-building"></i> Shopping Mall
                         </Accordion.Header>
                         <Accordion.Body>
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit, sed do eiusmod tempor incididunt ut labore
-                            et dolore magna aliqua. Scelerisque eleifend donec
-                            pretium vulputate sapien nec sagittis.
-                          </p>
+                        <p>
+      Indulge in retail therapy with premier shopping malls just a short drive away. From high-end brands to daily essentials, enjoy a dynamic shopping experience complete with entertainment zones, fine dining, and fashion-forward outlets.
+    </p>
                         </Accordion.Body>
                       </Accordion.Item>
                       {/* <!-- card --> */}
                       <Accordion.Item eventKey="2" className="card">
                         <Accordion.Header className="ltn__card-title">
-                          <i className="flaticon-airplane"></i> Airport/Biman
+                          <i className="flaticon-airplane"></i> Airport
                         </Accordion.Header>
                         <Accordion.Body>
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit, sed do eiusmod tempor incididunt ut labore
-                            et dolore magna aliqua. Scelerisque eleifend donec
-                            pretium vulputate sapien nec sagittis.
-                          </p>
+                        <p>
+      Whether for business or leisure, our properties’ proximity to the airport ensures that you are always well-connected to global destinations. Skip the long commutes and enjoy the luxury of quick access to international and domestic flights.
+    </p>
                         </Accordion.Body>
                       </Accordion.Item>
                       {/* <!-- card --> */}
@@ -1037,12 +1005,9 @@ function HomeVersionTwo(props) {
                           <i className="flaticon-slider"></i> Children Playland
                         </Accordion.Header>
                         <Accordion.Body>
-                          <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit, sed do eiusmod tempor incididunt ut labore
-                            et dolore magna aliqua. Scelerisque eleifend donec
-                            pretium vulputate sapien nec sagittis.
-                          </p>
+                        <p>
+      Foster joyful childhood memories in safe, vibrant playlands just steps from home. Designed with modern safety standards and creative play zones, these areas allow children to explore, socialize, and grow in a fun and secure environment.
+    </p>
                         </Accordion.Body>
                       </Accordion.Item>
                       {/* <!--  --> */}
@@ -1121,7 +1086,7 @@ function HomeVersionTwo(props) {
       {/* <!-- TESTIMONIAL AREA END -->
 
     <!-- BLOG AREA START (blog-3) --> */}
-      <div className="ltn__blog-area pb-70">
+      {/* <div className="ltn__blog-area pb-70">
         <Container>
           <Row>
             <Col lg={12}>
@@ -1147,7 +1112,7 @@ function HomeVersionTwo(props) {
             })}
           </Slider>
         </Container>
-      </div>
+      </div> */}
       {/* <!-- BLOG AREA END -->
 
     <!-- CALL TO ACTION START (call-to-action-6) --> */}
