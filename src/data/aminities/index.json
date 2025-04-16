@@ -1,50 +1,50 @@
 [
   {
     "id": "01",
-    "title": "Parking Space",
-    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "title": "Ample Parking Space",
+    "description": "Secure, well-lit parking bays for residents and guests — no more stress looking for a spot when you come home.",
     "icon": "flaticon-car"
   },
   {
     "id": "02",
-    "title": "Swimming Pool",
-    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "title": "Modern Swimming Pool",
+    "description": "Take a refreshing dip or lounge by the poolside — perfect for weekend relaxation under the coastal sun.",
     "icon": "flaticon-swimming"
   },
   {
     "id": "03",
-    "title": "Private Security",
-    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "title": "24/7 Private Security",
+    "description": "Trained security personnel and CCTV systems ensure safety round the clock for your peace of mind.",
     "icon": "flaticon-secure-shield"
   },
   {
     "id": "04",
-    "title": "Medical Center",
-    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "title": "Nearby Medical Facility",
+    "description": "Quick access to quality healthcare with trusted clinics and hospitals just minutes away.",
     "icon": "flaticon-stethoscope"
   },
   {
     "id": "05",
-    "title": "Library Area",
-    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "title": "Community Library Nook",
+    "description": "A cozy reading space for quiet study, stocked with books for all ages — perfect for families and students.",
     "icon": "flaticon-book"
   },
   {
     "id": "06",
-    "title": "King Size Beds",
-    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "title": "Spacious King Size Beds",
+    "description": "Comfort meets luxury with roomy, king-size sleeping spaces designed for restful nights and ultimate relaxation.",
     "icon": "flaticon-bed-1"
   },
   {
     "id": "07",
-    "title": "Smart Homes",
-    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "title": "Smart Home Features",
+    "description": "Control lighting, security, and more — all from your phone. Future-ready living in Mombasa and beyond.",
     "icon": "flaticon-home-2"
   },
   {
     "id": "08",
-    "title": "Kid’s Playland",
-    "description": "Enimad minim veniam quis no exercitation ullamco lab",
+    "title": "Children’s Play Area",
+    "description": "Safe and fun spaces for your little ones to play, explore, and grow — built with Kenyan families in mind.",
     "icon": "flaticon-slider"
   }
 ]

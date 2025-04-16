@@ -70,14 +70,7 @@ const MobileMenu = function ({ offCanVastoggleBtn, closeSideBar }) {
               ×
             </button>
           </div>
-          <div className="ltn__utilize-menu-search-form">
-            <form action="#">
-              <input type="text" placeholder="Search..." />
-              <button>
-                <FaSearch />
-              </button>
-            </form>
-          </div>
+          
           <div className="ltn__utilize-menu">
             <ul>
               <li>
@@ -136,66 +129,16 @@ const MobileMenu = function ({ offCanVastoggleBtn, closeSideBar }) {
           </div>
           <div className="ltn__utilize-buttons ltn__utilize-buttons-2">
             <ul>
+              
               <li>
-                <Link href="/my-account" title="My Account">
-                  <span className="utilize-btn-icon">
-                    <FaRegUser />
-                  </span>
-                  My Account
-                </Link>
+                
               </li>
               <li>
-                <Link href="/wishlist" title="Wishlist">
-                  <span className="utilize-btn-icon">
-                    <FaRegHeart />
-                    {cartItems.length > 0 ? (
-                      <sup>{cartItems.length}</sup>
-                    ) : (
-                      <sup>0</sup>
-                    )}
-                  </span>
-                  Wishlist
-                </Link>
-              </li>
-              <li>
-                <Link href="/cart" title="Shoping Cart">
-                  <span className="utilize-btn-icon">
-                    <FaShoppingCart />
-                    {cartItems.length > 0 ? (
-                      <sup>{cartItems.length}</sup>
-                    ) : (
-                      <sup>0</sup>
-                    )}
-                  </span>
-                  Shoping Cart
-                </Link>
+                
               </li>
             </ul>
           </div>
-          <div className="ltn__social-media-2">
-            <ul>
-              <li>
-                <Link href="#">
-                  <FaFacebookF />
-                </Link>
-              </li>
-              <li>
-                <Link href="#">
-                  <FaTwitter />
-                </Link>
-              </li>
-              <li>
-                <Link href="#">
-                  <FaLinkedin />
-                </Link>
-              </li>
-              <li>
-                <Link href="#">
-                  <FaInstagram />
-                </Link>
-              </li>
-            </ul>
-          </div>
+       
         </div>
       </div>
     </>
