@@ -903,7 +903,7 @@ function HomeVersionTwo(props) {
     <!-- TESTIMONIAL AREA START (testimonial-8) --> */}
       <div
         className="ltn__testimonial-area bg-image-top pt-115 pb-65"
-        style={{ backgroundImage: `url("../img/bg/23.jpg")` }}
+        style={{ backgroundImage: `url("../img/bg/23.png")` }}
       >
         <Container>
           <Row>

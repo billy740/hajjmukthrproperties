@@ -1,116 +1,5 @@
 [
   {
-    "id": "1",
-    "carousel": [
-      { "img": "star1.jpg" },
-      { "img": "star2.jpg" },
-      { "img": "star3.jpg" },
-      { "img": "star4.jpg" }
-    ],
-    "title": "Starshine",
-    "productImg": "star1.jpg",
-    "price": 69,
-    "priceRange": ["Low Budget"],
-    "discount": 5,
-    "country": true,
-    "district": "Mission District Area",
-    "properties": 2,
-    "featured": true,
-    "new": true,
-    "rent": false,
-    "photo": ["buying", "women", "women"],
-    "video": ["buying", "women"],
-    "bedBath": ["Single", "renting", "selling"],
-    "ratingCount": 5,
-    "rating": 3,
-    "saleCount": 5,
-    "category": ["buying", "renting"],
-    "tag": [
-      "Popular",
-      "desgin",
-      "ux",
-      "usability",
-      "develop",
-      "icon",
-      "Car",
-      "Service",
-      "Repairs",
-      "Auto Parts",
-      "Oil",
-      "Dealer",
-      "Oil Change",
-      "Body Color"
-    ],
-    "date": "May 19, 2021",
-    "comments": 35,
-    "locantion": "Belmont Gardens, Chicago",
-    "description": {
-      "title": "Description",
-      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
-      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
-    },
-    "propertyDetails": {
-      "propertyId": "HZ29",
-      "area": 3450,
-      "propertyStatus": "For Sale",
-      "rooms": 7,
-      "bedrooms": 3,
-      "baths": 2,
-      "createdYear": 1992
-    },
-    "factsAndFeatures": {
-      "livingRoom": "20 x 16 sq feet",
-      "garage": "20 x 16 sq feet",
-      "diningArea": "20 x 16 sq feet",
-      "bedroom": "20 x 16 sq feet",
-      "bathroom": "20 x 16 sq feet",
-      "gymArea": "20 x 16 sq feet",
-      "garden": "20 x 16 sq feet",
-      "parking": "20 x 16 sq feet"
-    },
-
-    "amenities1": [
-      "Air Conditioning",
-      "Gym",
-      
-      "Swimming Pool",
-      "WiFi"
-    ],
-    "amenities2": [
-      "Barbeque",
-      "Recreation",
-      
-      "Basketball Cout",
-      "Fireplace"
-    ],
-    "amenities3": [
-      "Refrigerator",
-      "Window Coverings",
-      "Washer",
-      "24x7 Security",
-      "Indoor Game"
-    ],
-    "AmenitiesList": ["Dishwasher"],
-    "agent": {
-      "firstName": "Rosalina D.",
-      "lastName": "Willaimson",
-      "fullName": "Rosalina D. Willaimson",
-      "type": "Property Seller",
-      "img": "author.jpg",
-      "designation": "Traveller/Photographer",
-      "raiting": 3,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
-      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
-    },
-
-    "gallery": {
-      "img1": "star1.jpg",
-      "img2": "star2.jpg",
-      "img3": "star3.jpg"
-    },
-    "propertyTypes": ["House", "Office Villa", "Luxary Home"]
-  },
-  {
     "id": "2",
     "carousel": [
       { "img": "moon1.jpg" },
@@ -120,11 +9,11 @@
     ],
     "title": "Moonlight",
     "productImg": "moon1.jpg",
-    "price": 159,
+    "price": 50000,
     "priceRange": ["Medium"],
     "discount": 5,
     "country": true,
-    "district": "Pacific Heights Area",
+    "district": "Tudor Area",
     "properties": 2,
     "featured": false,
     "new": false,
@@ -219,22 +108,22 @@
         ]
       }
     ],
-    "date": "May 19, 2021",
+    "date": "May 19, 2024",
     "comments": 35,
-    "locantion": "Belmont Gardens",
+    "locantion": "Tudor, Mombasa",
     "description": {
       "title": "Description",
-      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
-      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
+      "fullDescription": "Welcome to Moonlight Residences, a peaceful and elegant urban escape nestled in the tranquil Pacific Heights Area of Tudor, Mombasa. This beautifully crafted property boasts a perfect blend of charm and modern sophistication. Designed with attention to detail, Moonlight features spacious rooms, elegant finishes, and expansive windows that allow natural light to flood the interiors. Whether you're looking to rent a quiet retreat or invest in a timeless space, this 3-bedroom, 2-bathroom home offers both comfort and convenience. Located within a highly desirable neighborhood, residents will enjoy proximity to shopping centers, public amenities, and recreational spots. With only two units available, Moonlight offers a unique opportunity to live in a refined and exclusive setting.",
+      "shortDescription": "Moonlight Residences – Nestled in Pacific Heights, Tudor, this 3-bedroom rental combines tranquility, space, and modern charm, making it ideal for urban living or smart investment."
     },
     "propertyDetails": {
       "propertyId": "HZ29",
-      "area": 3450,
+      "area": "2-3 bedroom",
       "propertyStatus": "For Sale",
       "rooms": 7,
       "bedrooms": 3,
       "baths": 2,
-      "createdYear": 1992
+      "createdYear": 2024
     },
     "factsAndFeatures": {
       "livingRoom": "20 x 16 sq feet",
@@ -289,117 +178,6 @@
     "propertyTypes": ["Apartment", "Office Villa", "Luxary Home", "Studio"]
   },
   {
-    "id": "3",
-    "carousel": [
-      { "img": "tudor1.jpg" },
-      { "img": "tudor2.jpg" },
-      { "img": "tudor3.jpg" },
-      { "img": "tudor1.jpg" }
-    ],
-    "title": "Tudor pearl",
-    "productImg": "tudor1.jpg",
-    "price": 49,
-    "priceRange": ["High Budget"],
-    "discount": 15,
-    "country": false,
-    "district": "Noe Valley Zones",
-    "properties": 3,
-    "featured": false,
-    "new": true,
-    "rent": false,
-    "photo": ["buying", "women", "women"],
-    "video": ["buying", "women"],
-    "bedBath": ["Single", "renting", "selling"],
-    "ratingCount": 2,
-    "rating": 3,
-    "saleCount": 15,
-    "category": ["buying", "selling"],
-    "tag": [
-      "Popular",
-      "desgin",
-      "ux",
-      "usability",
-      "develop",
-      "icon",
-      "Car",
-      "Service",
-      "Repairs",
-      "Auto Parts",
-      "Oil",
-      "Dealer",
-      "Oil Change",
-      "Body Color"
-    ],
-    "date": "May 19, 2021",
-    "comments": 35,
-    "locantion": "Chicago",
-    "description": {
-      "title": "Description",
-      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
-      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
-    },
-    "propertyDetails": {
-      "propertyId": "HZ29",
-      "area": 3450,
-      "propertyStatus": "For Sale",
-      "rooms": 7,
-      "bedrooms": 3,
-      "baths": 2,
-      "createdYear": 1992
-    },
-    "factsAndFeatures": {
-      "livingRoom": "20 x 16 sq feet",
-      "garage": "20 x 16 sq feet",
-      "diningArea": "20 x 16 sq feet",
-      "bedroom": "20 x 16 sq feet",
-      "bathroom": "20 x 16 sq feet",
-      "gymArea": "20 x 16 sq feet",
-      "garden": "20 x 16 sq feet",
-      "parking": "20 x 16 sq feet"
-    },
-
-    "amenities1": [
-      "Air Conditioning",
-      "Gym",
-      "Microwave",
-      "Swimming Pool",
-      "WiFi"
-    ],
-    "amenities2": [
-      "Barbeque",
-      "Recreation",
-      "Microwave",
-      "Basketball Cout",
-      "Fireplace"
-    ],
-    "amenities3": [
-      "Refrigerator",
-      "Window Coverings",
-      "Washer",
-      "24x7 Security",
-      "Indoor Game"
-    ],
-    "AmenitiesList": ["Floor Coverings"],
-    "agent": {
-      "firstName": "Rosalina D.",
-      "lastName": "Willaimson",
-      "fullName": "Rosalina D. Willaimson",
-      "type": "Property Seller",
-      "img": "author.jpg",
-      "designation": "Traveller/Photographer",
-      "raiting": 3,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
-      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
-    },
-
-    "gallery": {
-      "img1": "tudor1.jpg",
-      "img2": "tudor2.jpg",
-      "img3": "tudor3.jpg"
-    },
-    "propertyTypes": ["House", "Single Family", "Luxary Home", "Studio"]
-  },
-  {
     "id": "4",
     "carousel": [
       { "img": "azure1.jpg" },
@@ -409,11 +187,11 @@
     ],
     "title": "Azure",
     "productImg": "azure4.jpg",
-    "price": "ksh",
+    "price": "20000",
     "priceRange": ["Medium"],
     "discount": 10,
     "country": false,
-    "district": "Mission District Area",
+    "district": "Ganjoni Area",
     "properties": 1,
     "featured": true,
     "new": false,
@@ -441,7 +219,7 @@
       "Oil Change",
       "Body Color"
     ],
-    "date": "",
+    "date": "May 19, 2024",
     "comments": "",
     "locantion": "Ganjoni",
     "description": {
@@ -452,7 +230,7 @@
 
     "propertyDetails": {
       "propertyId": "HZ29",
-      "area": "2 and 3 bedroom apartment",
+      "area": "2 and 3 bedroom",
       "propertyStatus": "For Sale and for Rent",
       "rooms": 7,
       "bedrooms": 3,
@@ -518,6 +296,228 @@
     ]
   },
   {
+    "id": "1",
+    "carousel": [
+      { "img": "star1.jpg" },
+      { "img": "star2.jpg" },
+      { "img": "star3.jpg" },
+      { "img": "star4.jpg" }
+    ],
+    "title": "Starshine",
+    "productImg": "star1.jpg",
+    "price": 25000,
+    "priceRange": ["Low Budget"],
+    "discount": 5,
+    "country": true,
+    "district": "Tudor Area",
+    "properties": 2,
+    "featured": true,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 5,
+    "rating": 3,
+    "saleCount": 5,
+    "category": ["buying", "renting"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "May 19, 2024",
+    "comments": 35,
+    "locantion": "Tudor, Mombasa",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Starshine is a delightful residential gem located in the heart of Tudor, Mombasa — ideal for families or individuals seeking comfort on a budget. This charming 3-bedroom, 2-bathroom home spans 3,450 sq. ft and boasts a functional layout with a spacious living room, separate dining area, and a well-appointed kitchen. With a large garden, on-site gym, parking, and family-friendly amenities such as a swimming pool and recreation area, Starshine combines affordability with a high quality of life. Set in a secure, peaceful neighborhood within close reach of shops, schools, and major routes, this home is perfect for first-time buyers or savvy investors looking for strong rental returns.",
+      "shortDescription": "Starshine, Tudor – Affordable 3-bed, 2-bath home with garden, gym, pool, and family-friendly amenities in a peaceful Mombasa location."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": "2-3 bedroom",
+      "propertyStatus": "For Sale",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 2,
+      "createdYear": 2024
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Dishwasher"],
+    "agent": {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "star1.jpg",
+      "img2": "star2.jpg",
+      "img3": "star3.jpg"
+    },
+    "propertyTypes": ["House", "Office Villa", "Luxary Home"]
+  },
+  {
+    "id": "3",
+    "carousel": [
+      { "img": "tudor1.jpg" },
+      { "img": "tudor2.jpg" },
+      { "img": "tudor3.jpg" },
+      { "img": "tudor1.jpg" }
+    ],
+    "title": "Tudor pearl",
+    "productImg": "tudor1.jpg",
+    "price": 35000,
+    "priceRange": ["High Budget"],
+    "discount": 15,
+    "country": false,
+    "district": "Tudor Area",
+    "properties": 3,
+    "featured": false,
+    "new": true,
+    "rent": false,
+    "photo": ["buying", "women", "women"],
+    "video": ["buying", "women"],
+    "bedBath": ["Single", "renting", "selling"],
+    "ratingCount": 2,
+    "rating": 3,
+    "saleCount": 15,
+    "category": ["buying", "selling"],
+    "tag": [
+      "Popular",
+      "desgin",
+      "ux",
+      "usability",
+      "develop",
+      "icon",
+      "Car",
+      "Service",
+      "Repairs",
+      "Auto Parts",
+      "Oil",
+      "Dealer",
+      "Oil Change",
+      "Body Color"
+    ],
+    "date": "May 19, 2024",
+    "comments": 35,
+    "locantion": "Tudor, Mombasa",
+    "description": {
+      "title": "Description",
+      "fullDescription": "Tudor Pearl is a beautifully crafted 3-bedroom, 2-bathroom luxury home located in the sought-after Noe Valley Zones of Tudor, Mombasa. With 3,450 sq. ft of refined living space, this property effortlessly blends elegance and comfort. Featuring expansive living and dining areas, a stylish kitchen with modern appliances, and oversized windows that welcome natural light, every corner feels like home. The property also includes a landscaped garden, private gym, secure parking, and leisure spaces like a swimming pool and barbeque zone. Ideal for high-end buyers seeking a serene urban retreat with top-tier amenities and security.",
+      "shortDescription": "Tudor Pearl – Elegant 3-bed, 2-bath luxury home in Tudor’s Noe Valley Zones. Features include garden, gym, pool, and modern finishes in 3,450 sq. ft of living space."
+    },
+    "propertyDetails": {
+      "propertyId": "HZ29",
+      "area": "2-3 bedroom",
+      "propertyStatus": "For Sale",
+      "rooms": 7,
+      "bedrooms": 3,
+      "baths": 2,
+      "createdYear": 2024
+    },
+    "factsAndFeatures": {
+      "livingRoom": "20 x 16 sq feet",
+      "garage": "20 x 16 sq feet",
+      "diningArea": "20 x 16 sq feet",
+      "bedroom": "20 x 16 sq feet",
+      "bathroom": "20 x 16 sq feet",
+      "gymArea": "20 x 16 sq feet",
+      "garden": "20 x 16 sq feet",
+      "parking": "20 x 16 sq feet"
+    },
+
+    "amenities1": [
+      "Air Conditioning",
+      "Gym",
+      "Microwave",
+      "Swimming Pool",
+      "WiFi"
+    ],
+    "amenities2": [
+      "Barbeque",
+      "Recreation",
+      "Microwave",
+      "Basketball Cout",
+      "Fireplace"
+    ],
+    "amenities3": [
+      "Refrigerator",
+      "Window Coverings",
+      "Washer",
+      "24x7 Security",
+      "Indoor Game"
+    ],
+    "AmenitiesList": ["Floor Coverings"],
+    "agent": {
+      "firstName": "Rosalina D.",
+      "lastName": "Willaimson",
+      "fullName": "Rosalina D. Willaimson",
+      "type": "Property Seller",
+      "img": "author.jpg",
+      "designation": "Traveller/Photographer",
+      "raiting": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
+      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
+    },
+
+    "gallery": {
+      "img1": "tudor1.jpg",
+      "img2": "tudor2.jpg",
+      "img3": "tudor3.jpg"
+    },
+    "propertyTypes": ["House", "Single Family", "Luxary Home", "Studio"]
+  },
+  {
     "id": "5",
     "carousel": [
       { "img": "jameel1.jpg" },
@@ -527,11 +527,11 @@
     ],
     "title": "Jameel Twin Tower",
     "productImg": "jameel4.jpg",
-    "price": 777,
+    "price": 40000,
     "priceRange": ["Low Budget"],
     "discount": 5,
     "country": true,
-    "district": "Mission District Area",
+    "district": "Tudor Area",
     "properties": 2,
     "featured": true,
     "new": true,
@@ -569,10 +569,10 @@
     },
     "propertyDetails": {
       "propertyId": "HZ29",
-      "Apartment types": "2 and 3",
+      "area": "2 and 3 bedroom",
       "propertyStatus": "For Sale and For Rent",
       "Floors": 15,
-      "bedrooms": 3,
+      "bedrooms": "2-3",
       "baths": 2,
       "createdYear": 2024
     },
@@ -626,449 +626,5 @@
       "img3": "jameel3.jpg"
     },
     "propertyTypes": ["House", "Single Family", "Apartment", "Office Villa"]
-  },
-  {
-    "id": "6",
-    "carousel": [
-      { "img": "35.jpg" },
-      { "img": "31.jpg" },
-      { "img": "32.jpg" },
-      { "img": "33.jpg" }
-    ],
-    "title": "Citra Puri Los Angles Living",
-    "productImg": "6.jpg",
-    "price": 215,
-    "priceRange": ["Low"],
-    "discount": 5,
-    "country": true,
-    "district": "Mission District Area",
-    "properties": 2,
-    "featured": true,
-    "new": false,
-    "rent": true,
-    "photo": ["buying", "women", "women"],
-    "video": ["buying", "women"],
-    "bedBath": ["Single", "renting", "selling"],
-    "ratingCount": 2,
-    "rating": 3,
-    "saleCount": 25,
-    "category": ["buying", "selling", "renting"],
-    "tag": [
-      "Popular",
-      "desgin",
-      "ux",
-      "usability",
-      "develop",
-      "icon",
-      "Car",
-      "Service",
-      "Repairs",
-      "Auto Parts",
-      "Oil",
-      "Dealer",
-      "Oil Change",
-      "Body Color"
-    ],
-    "date": "May 19, 2021",
-    "comments": 35,
-    "locantion": "Chicago",
-    "description": {
-      "title": "Description",
-      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
-      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
-    },
-    "propertyDetails": {
-      "propertyId": "HZ29",
-      "area": 3450,
-      "propertyStatus": "For Sale",
-      "rooms": 7,
-      "bedrooms": 3,
-      "baths": 2,
-      "createdYear": 1992
-    },
-    "factsAndFeatures": {
-      "livingRoom": "20 x 16 sq feet",
-      "garage": "20 x 16 sq feet",
-      "diningArea": "20 x 16 sq feet",
-      "bedroom": "20 x 16 sq feet",
-      "bathroom": "20 x 16 sq feet",
-      "gymArea": "20 x 16 sq feet",
-      "garden": "20 x 16 sq feet",
-      "parking": "20 x 16 sq feet"
-    },
-
-    "amenities1": [
-      "Air Conditioning",
-      "Gym",
-      "Microwave",
-      "Swimming Pool",
-      "WiFi"
-    ],
-    "amenities2": [
-      "Barbeque",
-      "Recreation",
-      "Microwave",
-      "Basketball Cout",
-      "Fireplace"
-    ],
-    "amenities3": [
-      "Refrigerator",
-      "Window Coverings",
-      "Washer",
-      "24x7 Security",
-      "Indoor Game"
-    ],
-    "AmenitiesList": ["Kids Zone"],
-    "agent": {
-      "firstName": "Rosalina D.",
-      "lastName": "Willaimson",
-      "fullName": "Rosalina D. Willaimson",
-      "type": "Property Seller",
-      "img": "author.jpg",
-      "designation": "Traveller/Photographer",
-      "raiting": 3,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
-      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
-    },
-
-    "gallery": {
-      "img1": "14.jpg",
-      "img2": "15.jpg",
-      "img3": "16.jpg"
-    },
-    "propertyTypes": ["House", "Single Family", "Apartment", "Office Villa"]
-  },
-  {
-    "id": "7",
-    "carousel": [
-      { "img": "35.jpg" },
-      { "img": "31.jpg" },
-      { "img": "32.jpg" },
-      { "img": "33.jpg" }
-    ],
-    "title": "Citra Puri Los Angles Living",
-    "productImg": "1.jpg",
-    "price": 225,
-    "priceRange": ["Low Budget", "Medium"],
-    "discount": 5,
-    "country": false,
-    "district": "Mission District Area",
-    "properties": 2,
-    "featured": true,
-    "new": true,
-    "rent": false,
-    "photo": ["buying", "women", "women"],
-    "video": ["buying", "women"],
-    "bedBath": ["Single", "renting", "selling"],
-    "ratingCount": 5,
-    "rating": 5,
-    "saleCount": 30,
-    "category": ["buying", "renting", "selling"],
-    "tag": [
-      "Popular",
-      "desgin",
-      "ux",
-      "usability",
-      "develop",
-      "icon",
-      "Car",
-      "Service",
-      "Repairs",
-      "Auto Parts",
-      "Oil",
-      "Dealer",
-      "Oil Change",
-      "Body Color"
-    ],
-    "date": "May 19, 2021",
-    "comments": 35,
-    "locantion": "Chicago",
-    "description": {
-      "title": "Description",
-      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
-      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
-    },
-    "propertyDetails": {
-      "propertyId": "HZ29",
-      "area": 3450,
-      "propertyStatus": "For Sale",
-      "rooms": 7,
-      "bedrooms": 3,
-      "baths": 2,
-      "createdYear": 1992
-    },
-    "factsAndFeatures": {
-      "livingRoom": "20 x 16 sq feet",
-      "garage": "20 x 16 sq feet",
-      "diningArea": "20 x 16 sq feet",
-      "bedroom": "20 x 16 sq feet",
-      "bathroom": "20 x 16 sq feet",
-      "gymArea": "20 x 16 sq feet",
-      "garden": "20 x 16 sq feet",
-      "parking": "20 x 16 sq feet"
-    },
-
-    "amenities1": [
-      "Air Conditioning",
-      "Gym",
-      "Microwave",
-      "Swimming Pool",
-      "WiFi"
-    ],
-    "amenities2": [
-      "Barbeque",
-      "Recreation",
-      "Microwave",
-      "Basketball Cout",
-      "Fireplace"
-    ],
-    "amenities3": [
-      "Refrigerator",
-      "Window Coverings",
-      "Washer",
-      "24x7 Security",
-      "Indoor Game"
-    ],
-    "AmenitiesList": ["Supermarket"],
-    "agent": {
-      "firstName": "Rosalina D.",
-      "lastName": "Willaimson",
-      "fullName": "Rosalina D. Willaimson",
-      "type": "Property Seller",
-      "img": "author.jpg",
-      "designation": "Traveller/Photographer",
-      "raiting": 3,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
-      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
-    },
-
-    "gallery": {
-      "img1": "14.jpg",
-      "img2": "15.jpg",
-      "img3": "16.jpg"
-    },
-    "propertyTypes": ["Office Villa"]
-  },
-  {
-    "id": "8",
-    "carousel": [
-      { "img": "35.jpg" },
-      { "img": "31.jpg" },
-      { "img": "32.jpg" },
-      { "img": "33.jpg" }
-    ],
-    "title": "New Apartment Nice View",
-    "productImg": "2.jpg",
-    "price": 500,
-    "priceRange": ["Low Budget", "Medium"],
-    "discount": 5,
-    "country": false,
-    "district": "Mission District Area",
-    "properties": 2,
-    "featured": false,
-    "new": true,
-    "rent": true,
-    "photo": ["buying", "women", "women"],
-    "video": ["buying", "women"],
-    "bedBath": ["Single", "renting", "selling"],
-    "ratingCount": 5,
-    "rating": 5,
-    "saleCount": 35,
-    "category": ["buying", "renting", "selling"],
-    "tag": [
-      "Popular",
-      "desgin",
-      "ux",
-      "usability",
-      "develop",
-      "icon",
-      "Car",
-      "Service",
-      "Repairs",
-      "Auto Parts",
-      "Oil",
-      "Dealer",
-      "Oil Change",
-      "Body Color"
-    ],
-    "date": "May 19, 2021",
-    "comments": 35,
-    "locantion": "Chicago",
-    "description": {
-      "title": "Description",
-      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
-      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
-    },
-    "propertyDetails": {
-      "propertyId": "HZ29",
-      "area": 3450,
-      "propertyStatus": "For Sale",
-      "rooms": 7,
-      "bedrooms": 3,
-      "baths": 2,
-      "createdYear": 1992
-    },
-    "factsAndFeatures": {
-      "livingRoom": "20 x 16 sq feet",
-      "garage": "20 x 16 sq feet",
-      "diningArea": "20 x 16 sq feet",
-      "bedroom": "20 x 16 sq feet",
-      "bathroom": "20 x 16 sq feet",
-      "gymArea": "20 x 16 sq feet",
-      "garden": "20 x 16 sq feet",
-      "parking": "20 x 16 sq feet"
-    },
-
-    "amenities1": [
-      "Air Conditioning",
-      "Gym",
-      "Microwave",
-      "Swimming Pool",
-      "WiFi"
-    ],
-    "amenities2": [
-      "Barbeque",
-      "Recreation",
-      "Microwave",
-      "Basketball Cout",
-      "Fireplace"
-    ],
-    "amenities3": [
-      "Refrigerator",
-      "Window Coverings",
-      "Washer",
-      "24x7 Security",
-      "Indoor Game"
-    ],
-    "AmenitiesList": ["Supermarket"],
-    "agent": {
-      "firstName": "Rosalina D.",
-      "lastName": "Willaimson",
-      "fullName": "Rosalina D. Willaimson",
-      "type": "Property Seller",
-      "img": "author.jpg",
-      "designation": "Traveller/Photographer",
-      "raiting": 3,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
-      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
-    },
-
-    "gallery": {
-      "img1": "14.jpg",
-      "img2": "15.jpg",
-      "img3": "16.jpg"
-    },
-    "propertyTypes": ["Single Family"]
-  },
-  {
-    "id": "9",
-    "carousel": [
-      { "img": "35.jpg" },
-      { "img": "31.jpg" },
-      { "img": "32.jpg" },
-      { "img": "33.jpg" }
-    ],
-    "title": "Citra Puri Los Angles Living",
-    "productImg": "4.jpg",
-    "price": 270,
-    "priceRange": ["Low Budget"],
-    "discount": 5,
-    "country": true,
-    "district": "Mission District Area",
-    "properties": 2,
-    "featured": false,
-    "new": true,
-    "rent": false,
-    "photo": ["buying", "women", "women"],
-    "video": ["buying", "women"],
-    "bedBath": ["Single", "renting", "selling"],
-    "ratingCount": 5,
-    "rating": 5,
-    "saleCount": 90,
-    "category": ["buying", "selling"],
-    "tag": [
-      "Popular",
-      "desgin",
-      "ux",
-      "usability",
-      "develop",
-      "icon",
-      "Car",
-      "Service",
-      "Repairs",
-      "Auto Parts",
-      "Oil",
-      "Dealer",
-      "Oil Change",
-      "Body Color"
-    ],
-    "date": "May 19, 2021",
-    "comments": 35,
-    "locantion": "Chicago",
-    "description": {
-      "title": "Description",
-      "fullDescription": "Massa tempor nec feugiat nisl pretium. Egestas fringilla phasellus faucibus scelerisque eleifend donec Porta nibh venenatis cras sed felis eget velit aliquet. Neque volutpat ac tincidunt vitae semper quis lectus. Turpis in eu mi bibendum neque egestas congue quisque. Sed elementum tempus egestas sed sed risus pretium quam. Dignissim sodales ut eu sem. Nibh mauris cursus mattis molestee iaculis at erat pellentesque. Id interdum velit laoreet id donec ultrices tincidunt.",
-      "shortDescription": "To the left is the modern kitchen with central island, leading through to the unique breakfast family room which feature glass walls and doors out onto the garden and access to the separate utility room."
-    },
-    "propertyDetails": {
-      "propertyId": "HZ29",
-      "area": 3450,
-      "propertyStatus": "For Sale",
-      "rooms": 7,
-      "bedrooms": 3,
-      "baths": 2,
-      "createdYear": 1992
-    },
-    "factsAndFeatures": {
-      "livingRoom": "20 x 16 sq feet",
-      "garage": "20 x 16 sq feet",
-      "diningArea": "20 x 16 sq feet",
-      "bedroom": "20 x 16 sq feet",
-      "bathroom": "20 x 16 sq feet",
-      "gymArea": "20 x 16 sq feet",
-      "garden": "20 x 16 sq feet",
-      "parking": "20 x 16 sq feet"
-    },
-
-    "amenities1": [
-      "Air Conditioning",
-      "Gym",
-      "Microwave",
-      "Swimming Pool",
-      "WiFi"
-    ],
-    "amenities2": [
-      "Barbeque",
-      "Recreation",
-      "Microwave",
-      "Basketball Cout",
-      "Fireplace"
-    ],
-    "amenities3": [
-      "Refrigerator",
-      "Window Coverings",
-      "Washer",
-      "24x7 Security",
-      "Indoor Game"
-    ],
-    "AmenitiesList": ["Supermarket"],
-    "agent": {
-      "firstName": "Rosalina D.",
-      "lastName": "Willaimson",
-      "fullName": "Rosalina D. Willaimson",
-      "type": "Property Seller",
-      "img": "author.jpg",
-      "designation": "Traveller/Photographer",
-      "raiting": 3,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis distinctio, odio, eligendi suscipit reprehenderit atque.",
-      "social": ["FaPlay", "FaHome", "FaArrowRight", "FaArrowLeft"]
-    },
-
-    "gallery": {
-      "img1": "14.jpg",
-      "img2": "15.jpg",
-      "img3": "16.jpg"
-    },
-    "propertyTypes": ["House", "Single Family"]
   }
 ]

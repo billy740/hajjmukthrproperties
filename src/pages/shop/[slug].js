@@ -65,7 +65,7 @@ function ProductDetails({ product }) {
     product.discount
   ).toFixed(2);
 
-  const productPrice = product.price.toFixed(2);
+  const productPrice = Number(product.price).toFixed(2);
   const cartItem = cartItems.find((cartItem) => cartItem.id === product.id);
   const wishlistItem = wishlistItems.find(
     (wishlistItem) => wishlistItem.id === product.id
@@ -740,7 +740,7 @@ function ProductDetails({ product }) {
                         product.price,
                         product.discount
                       ).toFixed(2);
-                      const productPrice = product.price.toFixed(2);
+                      const productPrice = Number(product.price).toFixed(2);
                       const cartItem = cartItems.find(
                         (cartItem) => cartItem.id === product.id
                       );
@@ -806,7 +806,7 @@ function ProductDetails({ product }) {
                               <div className="top-rated-product-img">
                                 <a href={`/shop/${slug}`}>
                                   <img
-                                    src={`/img/product/${key}.png`}
+                                    src={`/img/product/${key}.jpg`}
                                     alt={product.title}
                                   />
                                 </a>
@@ -845,8 +845,8 @@ function ProductDetails({ product }) {
                                   <a href={`/shop/${slug}`}>{product.title}</a>
                                 </h6>
                                 <div className="product-price">
-                                  <span>${product.price}</span>
-                                  <del>${discountedPrice}</del>
+                                  <span>ksh{product.price}</span>
+                                  <del>ksh{discountedPrice}</del>
                                 </div>
                               </div>
                             </div>
@@ -925,7 +925,7 @@ function ProductDetails({ product }) {
                             <div className="product-info">
                               <div className="product-price">
                                 <span>
-                                  ${product.price}
+                                  ksh {product.price}
                                   <label>/Month</label>
                                 </span>
                               </div>
@@ -957,7 +957,7 @@ function ProductDetails({ product }) {
                                 </li>
                                 <li>
                                   <span>{product.propertyDetails.area}</span>
-                                  <span className="ms-1">square Ft</span>
+                                  <span className="ms-1">aprt</span>
                                 </li>
                               </ul>
                             </div>

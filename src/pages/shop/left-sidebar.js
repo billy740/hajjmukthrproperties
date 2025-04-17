@@ -153,7 +153,7 @@ function ShopLeftSideBar() {
                             product.price,
                             product.discount
                           ).toFixed(2);
-                          const productPrice = product.price.toFixed(2);
+                          const productPrice = Number(product.price).toFixed(2);
                           const cartItem = cartItems.find(
                             (cartItem) => cartItem.id === product.id
                           );
@@ -190,7 +190,7 @@ function ShopLeftSideBar() {
                             product.price,
                             product.discount
                           ).toFixed(2);
-                          const productPrice = product.price.toFixed(2);
+                          const productPrice = Number(product.price).toFixed(2);
                           const cartItem = cartItems.find(
                             (cartItem) => cartItem.id === product.id
                           );

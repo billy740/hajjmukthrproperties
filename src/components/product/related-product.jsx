@@ -99,7 +99,7 @@ const RelatedProduct = ({
             </li>
             <li>
               <span>{productData.propertyDetails.area}</span>
-              <span className="ms-1">square Ft</span>
+              <span className="ms-1">aprt</span>
             </li>
           </ul>
           <div className="product-hover-action">
@@ -149,7 +149,7 @@ const RelatedProduct = ({
         <div className="product-info-bottom">
           <div className="product-price">
             <span>
-              {`$ ${productData.price}`}
+            KSh {Number(productData.price).toLocaleString()}
               <label>/Month</label>
             </span>
           </div>

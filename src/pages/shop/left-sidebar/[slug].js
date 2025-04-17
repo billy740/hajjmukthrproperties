@@ -1334,7 +1334,7 @@ function ProductDetails({ product, baseUrl }) {
                             <div className="product-info">
                               <div className="product-price">
                                 <span>
-                                  ${product.price}
+                                  ksh{product.price}
                                   <label>/Month</label>
                                 </span>
                               </div>
@@ -1364,7 +1364,7 @@ function ProductDetails({ product, baseUrl }) {
                                 </li>
                                 <li>
                                   <span>{product.propertyDetails.area}</span>
-                                  <span className="ms-1">square Ft</span>
+                                  <span className="ms-1">square</span>
                                 </li>
                               </ul>
                             </div>

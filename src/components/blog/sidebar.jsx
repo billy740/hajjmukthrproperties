@@ -297,7 +297,7 @@ const BlogSideBar = ({ popularProducts, topRatedProducts, latestdBlogs }) => {
                       </li>
                       <li>
                         <span>{product.propertyDetails.area}</span>
-                        <span className="ms-1">square Ft</span>
+                        <span className="ms-1">square </span>
                       </li>
                     </ul>
                   </div>

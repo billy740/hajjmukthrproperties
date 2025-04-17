@@ -1,18 +1,17 @@
 [
   {
-    "subtitle": "Real Estate Agency",
-    "Title": "Find Your Dream House By Us",
-    "Desc": "Discover your ideal home with Haji Mukhtar Properties & Petroleum Ltd. We offer a wide range of residential and commercial properties tailored to your needs—making the journey to homeownership smooth, secure, and stress-free.",
+    "subtitle": "Jameel Apartments — Coastal Comfort",
+    "Title": "Live the Charm of Jameel Living",
+    "Desc": "Settle into serenity at Jameel Apartments, where modern comfort meets coastal elegance. Enjoy spacious layouts, premium finishes, and a lifestyle tailored for peace of mind.",
     "icon": "FaHome",
     "heroimage": "jameel4.jpg",
     "id": "1",
-    
     "variationLeft": false
   },
   {
-    "subtitle": "Real Estate Agency",
-    "Title": "The Right Place of House Finding",
-    "Desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+    "subtitle": "Azure Heights — Skies Aren’t the Limit",
+    "Title": "Welcome to Azure Living",
+    "Desc": "Bask in panoramic views and blue-hued tranquility at Azure Apartments. Designed for those who dream above the clouds, each unit redefines luxury with air, light, and space.",
     "icon": "FaHome",
     "heroimage": "azure2.jpg",
     "id": "2",
@@ -22,9 +21,9 @@
     "variationLeft": false
   },
   {
-    "subtitle": "Real Estate Agency",
-    "Title": "Search and Find Luxury House",
-    "Desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+    "subtitle": "Moonlight Residences — Nightfall Elegance",
+    "Title": "Your Nights Just Got Better",
+    "Desc": "Experience a home bathed in tranquility at Moonlight Residences. With elegant interiors and starlit balconies, it's a perfect blend of privacy and sophistication.",
     "icon": "FaHome",
     "heroimage": "moon3.jpg",
     "id": "3",
@@ -34,9 +33,9 @@
     "variationLeft": false
   },
   {
-    "subtitle": "Real Estate Agency",
-    "Title": "Find Your Dream House By Us",
-    "Desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+    "subtitle": "Starshine Towers — Shine Where You Live",
+    "Title": "Where Every Night Feels Celestial",
+    "Desc": "Starshine Towers offers breathtaking cityscapes and sky-high comfort. Come home to a constellation of modern amenities in the heart of urban convenience.",
     "icon": "FaHome",
     "heroimage": "star3.jpg",
     "id": "4",
@@ -46,9 +45,9 @@
     "variationLeft": false
   },
   {
-    "subtitle": "Real Estate Agency",
-    "Title": "Find Your Dream House By Us",
-    "Desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.",
+    "subtitle": "Tudor pearl — Royal Living Redefined",
+    "Title": "Live the Tudor Lifestyle",
+    "Desc": "Tudor pearl blends historic elegance with modern luxury. From spacious courtyards to refined finishes, every detail is crafted for majestic everyday living.",
     "icon": "FaHome",
     "heroimage": "tudor1.jpg",
     "id": "5",

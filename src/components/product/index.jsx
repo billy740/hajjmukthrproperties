@@ -107,7 +107,7 @@ const ProductItem = ({
         <div className="product-info">
           <div className="product-price">
             <span>
-              {`$ ${productData.price}`}
+            KSh {Number(productData.price).toLocaleString()}
               <label>/Month</label>
             </span>
           </div>
