@@ -123,6 +123,9 @@ const MobileMenu = function ({ offCanVastoggleBtn, closeSideBar }) {
                 </ul>
               </li>
               <li>
+                <Link href="/petroleum">Petroleum services</Link>
+              </li>
+              <li>
                 <Link href="/contact">Contact</Link>
               </li>
             </ul>

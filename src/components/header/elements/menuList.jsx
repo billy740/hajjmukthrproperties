@@ -46,6 +46,11 @@ const MenuList = ({ addListing }) => {
           </li>
         </ul>
       </li>
+      <li className="menu-icon">
+        <Link href="/petroleum">
+          Petroleum Services
+        </Link>
+      </li>
       
       {/* <li className="menu-icon mega-menu-parent">
         <Link href="#">
